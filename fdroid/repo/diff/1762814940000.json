@@ -1,1 +1,1 @@
-{"repo": {"timestamp": 1762815580000}}
+{"repo": {"mirrors": [{"isPrimary": true, "url": "https://paulmayero.github.io/curly-fiesta/fdroid/repo"}, {"url": "https://raw.githubusercontent.com/PaulMayero/curly-fiesta/master/fdroid/repo"}], "timestamp": 1762815774000}}
