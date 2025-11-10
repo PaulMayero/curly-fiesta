@@ -1,1 +1,1 @@
-{"repo": {"timestamp": 1762813449000}}
+{"repo": {"icon": {"en-US": {"sha256": "e69f386d0328a18ab664abc4b438568f52b2467122fda0b43dc8d783bbdf0805", "size": 850}}, "address": "https://droidcon-uganda.gitlab.io/fdroid/repo", "mirrors": [{"isPrimary": true, "url": "https://droidcon-uganda.gitlab.io/fdroid/repo"}, {"url": "https://pmmayero.gitlab.io/droidcon-uganda/fdroid/repo"}, {"url": "https://gitlab.com/pmmayero/droidcon-uganda/-/raw/master/fdroid/repo"}], "timestamp": 1762813784000}}
